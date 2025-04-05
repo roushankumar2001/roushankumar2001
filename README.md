@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Roushan kumar!
+
+I'm a Fullstack developer based in patna. I have a passion for [Your Interests/Technologies] and love working on projects that make a difference.
+
+## 💼 Technologies & Tools
+- **Languages**: JavaScript, Python , Php, C++ , Java
+- **Frameworks**: React, Express,Laravel
+- **Databases**: MongoDB, MySQL 
 
 <!--
-**roushankumar2001/roushankumar2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📈 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 -->
+## 🌟 Featured Projects
+Here are a few of my projects that I'm proud of:
+
+- **[Inventry Management](link-to-project)**: A fullstack project with seperate admin and public frontend develop on react .It basically give local business to show it product service to coustomer via website,allowing coustomer to deside and  plan there purchase list at home.
+
+
+
+## 📫 Get in Touch
+Feel free to reach out if you want to collaborate or just chat!  
+- [LinkedIn](https://www.linkedin.com/in/roushan-kumar-764b691b4/)
+- [Email](roushan.dec@gmail.com)
+
