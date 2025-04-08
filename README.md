@@ -21,5 +21,5 @@ Here are a few of my projects that I'm proud of:
 ## 📫 Want to contact
 Reach me at
 - [LinkedIn](https://www.linkedin.com/in/roushan-kumar-764b691b4/)
-- [Email](roushan.dec@gmail.com)
+- [Email](mailto:roushan.fs.dev@gmail.com)
 
