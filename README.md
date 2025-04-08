@@ -18,8 +18,8 @@ Here are a few of my projects that I'm proud of:
 
 
 
-## 📫 Get in Touch
-Feel free to reach out if you want to collaborate or just chat!  
+## 📫 Want to contact
+Reach me at
 - [LinkedIn](https://www.linkedin.com/in/roushan-kumar-764b691b4/)
 - [Email](roushan.dec@gmail.com)
 
