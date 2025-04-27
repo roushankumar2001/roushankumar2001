@@ -14,7 +14,7 @@ Here are a few of my projects that I'm proud of:
 
 - **[Portfolio website](https://portfolio-eight-kappa-17.vercel.app/)**: A website build on react and tailwind that show my project.
   
-- **[Inventry Management](link-to-project)**: A fullstack project with seperate admin and public frontend develop on react .It basically give local business to show it product service to coustomer via website,allowing coustomer to deside and  plan there purchase list at home.
+- **[Inventry Management](link-to-project)**: A full-stack project featuring separate admin and public frontends developed in React. It enables local businesses to showcase their products and services through a website, allowing customers to browse, plan, and create purchase lists from home.
 
 ## 🌟 Some Tools
 - **[Mern project setup]()**: A tool to setup a Mern project.
