@@ -17,7 +17,7 @@ Here are a few of my projects that I'm proud of:
 - **[Inventry Management](link-to-project)**: A full-stack project featuring separate admin and public frontends developed in React. It enables local businesses to showcase their products and services through a website, allowing customers to browse, plan, and create purchase lists from home.
 
 ## 🌟 Some Tools
-- **[Mern project setup]()**: A tool to setup a Mern project.
+- **[Mern project setup](https://github.com/roushankumar2001/mern_project_creator)**: A tool to setup a Mern project.
 
 
 ## 📫 Want to contact
