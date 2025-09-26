@@ -1,7 +1,8 @@
 # 👋 Welcome to my GitHub repo
 
 I'm a Fullstack developer based in patna. I have a passion for developing backend/frontend software. If you’re interested in collaborating on a project or would like to see my project work, feel free to reach out. I'm always open to discussing new opportunities and ideas. 
-Want to see my **[resume]()**.
+
+#  **[resume]()**.
 
 ## 💼 Technologies & Tools
 - **Languages**: JavaScript, Python , Php, C++ , Java
