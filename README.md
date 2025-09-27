@@ -6,7 +6,7 @@
 💻 Proficient in **React.js, Node.js, Express.js, MongoDB**, and experienced in crafting **responsive UIs** with **Tailwind CSS**.  
 ⚡ Skilled in building **RESTful APIs**, following **Agile practices**, and maintaining clear **technical documentation** for seamless collaboration.  
 
-📄 **[📑 View My Resume](https://portfolio-eight-kappa-17.vercel.app/resume.pdf)**  
+**[📑 View My Resume](https://portfolio-eight-kappa-17.vercel.app/resume.pdf)**  
 
 ---
 
