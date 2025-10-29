@@ -24,6 +24,8 @@
 ---
 
 ## 🌟 Featured Projects  
+📌 **[JSON_TREE_VISUALIZER](https://json-tree-visualizer-pi.vercel.app/)**  
+A Frontend project made with **Next.js** and deployed on vercel .
 
 📌 **[Portfolio Website](https://portfolio-eight-kappa-17.vercel.app/)**  
 A personal portfolio built with **React.js** and **Tailwind CSS**, showcasing my skills and projects.  
