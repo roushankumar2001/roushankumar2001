@@ -25,7 +25,9 @@
 
 ## 🌟 Featured Projects  
 📌 **[JSON_TREE_VISUALIZER](https://json-tree-visualizer-pi.vercel.app/)**  
-A Frontend project made with **Next.js** and deployed on vercel .
+[vist repo](https://github.com/roushankumar2001/Json_Tree_visualizer)
+A Frontend project made with **Next.js** and deployed on vercel.
+used react flow to design node to represent obejct and plot tree .
 
 📌 **[Portfolio Website](https://portfolio-eight-kappa-17.vercel.app/)**  
 A personal portfolio built with **React.js** and **Tailwind CSS**, showcasing my skills and projects.  
