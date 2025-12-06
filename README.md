@@ -25,7 +25,8 @@
 
 ## 🌟 Featured Projects  
 📌 **[JSON_TREE_VISUALIZER](https://json-tree-visualizer-pi.vercel.app/)**  
-[vist repo](https://github.com/roushankumar2001/Json_Tree_visualizer)
+[vist repo](https://github.com/roushankumar2001/Json_Tree_visualizer).
+
 A Frontend project made with **Next.js** and deployed on vercel.
 used react flow to design node to represent obejct and plot tree .
 
